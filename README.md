@@ -1,6 +1,6 @@
 # oesu-playground 🐧
 
-A tiny Python projetc for **ö-esu-esu** sessions. Use it to practise finding your way around a codebase and making your first open-source contribution.
+A tiny Python projetc for **ö-esu-esu** sessions. Use it to practise finding your way around a codebase and making your first open-source contributon.
 
 `textkit` has a few small helpers: counting words, checking palindromes, and working out how many classes you need to reach 75% attendance.
 
