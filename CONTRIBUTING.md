@@ -2,16 +2,7 @@
 
 Thanks for being here! This repo exists so you can practise. Mistakes are wellcome.
 
-## Ways to contribute (no expert coding needed)
 
-| Type | Example | Label |
-| --- | --- | --- |
-| 📝 Docs | fix a typo, add a missing step | `docs` |
-| 🐛 Bug report | something gives the wrong answer? open an issue | `bug` |
-| 🧪 Tests | add a test for a function that has none | `tests` |
-| 👋 Say hi | add your file to `contributors/` | `good first issue` |
-
-## Before you start
 
 1. Pick an issue, or find a problem yourself.
 2. Comment **"Can I take this?"** on the issue so two people don't do the same wrok.
